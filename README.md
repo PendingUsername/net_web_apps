@@ -23,7 +23,7 @@ This project is a simple Python-based tool that allows users to ping a specific 
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone PendingUsername/net_web_apps
     cd <repository-directory>
     ```
 
