@@ -1,4 +1,4 @@
-# Ping Tool with Python and Data Visualization
+# Project 1 - Ping Tool with Python and Data Visualization
 
 ## Overview
 
