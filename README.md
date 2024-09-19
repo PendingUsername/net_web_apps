@@ -49,7 +49,7 @@ This project is a simple Python-based tool that allows users to ping a specific 
 
 ## MIT License
 
-Copyright (c) 2024 PendingUsernam
+Copyright (c) 2024 PendingUsername
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
