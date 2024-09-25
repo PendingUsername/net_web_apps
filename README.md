@@ -1,6 +1,7 @@
 # Project 1 - Ping Tool with Python and Data Visualization
 
 ## Overview
+**Note: Only works on UNIX based systems. Working on Windows compatibility. 
 
 This project is a simple Python-based tool that allows users to ping a specific host and visualize the results in their web browser. It uses the `Bottle` web framework to serve the web interface and `Tkinter` for a simple GUI. The ping results are displayed as both raw output and a bar chart generated using `matplotlib` to visualize response times.
 
